@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Large project artifacts
+models/*.joblib
+models/*.pth
+models/*.json
+results/*.csv
+results/*.png
+results/*.json
+results/*.jpg
+results/*.jpeg
+
+data/raw/
+data/processed/
+
+# Optional local notebooks
+.notebook_checkpoints/

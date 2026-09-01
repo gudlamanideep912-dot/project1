@@ -1,6 +1,0 @@
-URL,Prediction,Risk Score,Risk Level,Phishing Probability,Legitimate Probability
-https://www.google.com,LEGITIMATE,0.0,LOW,0.0,100.0
-https://www.microsoft.com,LEGITIMATE,0.51,LOW,0.506850789850099,99.49314921014987
-https://www.wikipedia.org,LEGITIMATE,0.32,LOW,0.3229042497060175,99.67709575029393
-http://example.com,PHISHING,100.0,HIGH,100.0,0.0
-http://secure-login-account.example.com,PHISHING,99.67,HIGH,99.66666666666667,0.33333333333333337
