@@ -89,13 +89,13 @@ The primary detection model is a Random Forest classifier, chosen for its high p
     -   **ROC-AUC:** 0.9968
 
 *Metrics are based on the held-out test set, as detailed in the `model_comparison.ipynb` and `random_forest.ipynb` notebooks.*
-### interface
+## interface
 <img width="870" height="676" alt="image" src="https://github.com/user-attachments/assets/908f10bf-35fb-40fc-b07c-ea654979bf0b" />
-###   if the url is safe
+## if the url is safe
 <img width="870" height="680" alt="image" src="https://github.com/user-attachments/assets/9f3c3a52-f07d-4d8e-860e-93e386d69d9e" />
-###   if the url is not safe
+## if the url is not safe
 <img width="867" height="680" alt="Screenshot 2026-09-01 221950" src="https://github.com/user-attachments/assets/8f732d6f-a637-44b6-a9d0-81f897ab90cb" />
-###error
+### error
 <img width="867" height="683" alt="Screenshot 2026-09-01 221338" src="https://github.com/user-attachments/assets/f2e769e1-6e2b-4658-9e60-a6a5418cfbca" />
 
 
